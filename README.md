@@ -1,4 +1,4 @@
-# PyTorch_CNN_MNIST
+# PyTorch_CNN_MNIST (use Google colab with GPU)
 
 **CNN--PyTorch Coding Step**:
 1. 安裝套件
